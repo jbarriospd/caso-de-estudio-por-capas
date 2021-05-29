@@ -6,6 +6,7 @@
 
 En este repositorio presentamos la estructura de carpetas que se deberian realizar en una arquitectura por capas en un projecto Java con Spring boot, agregando un ejemplo para el Caso (Clientes).
 
+```md
 .
 └── Caso-de-estudio
     ├── mvnw
@@ -43,3 +44,4 @@ En este repositorio presentamos la estructura de carpetas que se deberian realiz
                         └── case
                             └── estudiantes
                                 └── CaseApplicationTests.java
+ ```
