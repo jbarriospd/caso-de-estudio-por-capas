@@ -1,4 +1,4 @@
-#CASO DE ESTUDIO
+# CASO DE ESTUDIO
 
 - Juan Esteban Marin Duarte
 - Cristian David Nieto Montero
@@ -41,7 +41,7 @@ En este repositorio presentamos la estructura de carpetas que se deberian realiz
             └── java
                 └── co
                     └── edu
-                        └── case
+                        └── caso
                             └── estudiantes
                                 └── CaseApplicationTests.java
  ```
